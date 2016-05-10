@@ -1,0 +1,37 @@
+.body {
+  font-family: "georgia", sans-serif;
+
+
+}
+.blok {color: black;} 
+.blok {font-size: 60px}
+.blok {margin-bottom: auto}
+.blok {background-color:coral}
+
+
+
+
+.left {float: left}
+.left {height: 10000px;}
+.left {width: 350px}
+
+
+
+
+.right {float: right}
+.right {width: 470px}
+.right {height: 10000px}
+.right {font-size: 44px}
+.right {color:fuchsia}
+
+.LT {margin: right}
+
+
+.right2 {float: left} 
+.right2 {width: 500px}
+.right2 {height: 400px}
+.right2 {font-size: 28px}
+.right2 {background-color: lightblue}
+.right2 {color: darkblue}
+
+
